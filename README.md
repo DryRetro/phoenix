@@ -172,7 +172,7 @@ make new
 
 3 - Run to prepare wallets.json file with random User Agents and set up proxy to specific profile
 ```bash
-make new
+make init
 ```
 
 4 - Run System
