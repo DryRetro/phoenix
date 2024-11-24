@@ -180,7 +180,7 @@ make init
 make run
 ```
 
-
+[How to use Kozel for not just wallet generation?](https://github.com/dry-com/kozel)
 
 
 **Phoenix: Retro** — надёжный помощник для трейдеров, стремящихся к автоматизации и безопасности в мире криптовалют.
