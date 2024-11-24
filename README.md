@@ -158,6 +158,31 @@ https://github.com/user-attachments/assets/a6bcdb05-2b0f-4bfb-ac44-fbed03441cbe
 
 ---
 
+## Installation 
+1 - Updating system
+```bash
+sudo apt update
+sudo apt install build-essential
+```
+
+2 - Run this command to install libs and enter activation code
+```bash
+make new
+```
+
+3 - Run to prepare wallets.json file with random User Agents and set up proxy to specific profile
+```bash
+make new
+```
+
+4 - Run System
+```bash
+make run
+```
+
+
+
+
 **Phoenix: Retro** — надёжный помощник для трейдеров, стремящихся к автоматизации и безопасности в мире криптовалют.
 
 ---
