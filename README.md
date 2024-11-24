@@ -8,7 +8,10 @@
 
 ## English
 
-https://github.com/user-attachments/assets/236e4684-95e1-4552-8ae3-716408d28d1b
+
+https://github.com/user-attachments/assets/918d2d9b-0f56-4492-89a6-5eded518f73b
+
+
 
 
 **Phoenix: You asked — we delivered!**  
@@ -84,7 +87,7 @@ https://github.com/user-attachments/assets/a6bcdb05-2b0f-4bfb-ac44-fbed03441cbe
 
 ## Русский
 
-https://github.com/user-attachments/assets/236e4684-95e1-4552-8ae3-716408d28d1b
+https://github.com/user-attachments/assets/918d2d9b-0f56-4492-89a6-5eded518f73b
 
 
 **Phoenix: вы ждали — мы сделали!**  
