@@ -16,13 +16,13 @@ For example if you want to swap USDC to SOL
     "action": "trade",
     "market_id": "4DoNfFBfF7UokCC2FQzriy7yHK6DY6NVdYpuekQ5pRgg",
     "order": "Market",
-    "type": "Sell",
+    "type": "Buy",
     "min_delay": 30,
     "max_delay": 100,
     "token0": "SOL",
     "token1": "USDC",
-    "percentage_min": 30,
-    "percentage_max": 50
+    "percentage_min": 50,
+    "percentage_max": 100
   }
 ]
 ```
